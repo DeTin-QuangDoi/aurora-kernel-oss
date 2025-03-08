@@ -7,7 +7,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:
       - name: Checkout kernel source
         uses: actions/checkout@v4
 
